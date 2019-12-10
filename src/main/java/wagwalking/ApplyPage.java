@@ -32,6 +32,8 @@ public class ApplyPage extends BasePage {
     @FindBy(css = "input")
     private List<WebElement> inputFields;
 
+    //another test comment
+
     /*
     [0] - email
     [1] password
